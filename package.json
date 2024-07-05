@@ -3,6 +3,10 @@
   "main": "dist/index.cjs",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": "github:neo773/supertrend",
+  "description": "A simple implementation of the Supertrend indicator",
+  "author": "neo773",
+  "license": "MIT",
   "scripts": {
     "build": "tsup index.ts --format cjs, esm --dts --out-dir dist"
   },
