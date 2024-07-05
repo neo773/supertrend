@@ -1,11 +1,23 @@
 {
   "name": "simple-supertrend",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "github:neo773/supertrend",
-  "description": "A simple implementation of the Supertrend indicator",
+  "description": "TradingView's Supertrend Indicator",
+  "tags": [
+    "supertrend",
+    "tradingview",
+    "indicator",
+    "crypto",
+    "cryptocurrency",
+    "trading",
+    "stocks",
+    "stock",
+    "stock trading",
+    "crypto trading"
+  ],
   "author": "neo773",
   "license": "MIT",
   "scripts": {
