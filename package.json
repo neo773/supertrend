@@ -1,0 +1,16 @@
+{
+  "name": "simple-supertrend",
+  "main": "dist/index.cjs",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup index.ts --format cjs, esm --dts --out-dir dist"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "tsx": "^4.16.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
