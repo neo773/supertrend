@@ -1,12 +1,12 @@
 {
   "name": "simple-supertrend",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "github:neo773/supertrend",
   "description": "TradingView's Supertrend Indicator",
-  "tags": [
+  "keywords": [
     "supertrend",
     "tradingview",
     "indicator",
